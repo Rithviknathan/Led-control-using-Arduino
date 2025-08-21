@@ -1,4 +1,3 @@
-# Led-control-using-Arduino
 ## NAME: RITHVIK S
 ## REG NO: 212223100045 
 ## EXP 1: LED control using Arduino and Push button
