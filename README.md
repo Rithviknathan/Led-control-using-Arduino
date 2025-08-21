@@ -1,5 +1,7 @@
 # Led-control-using-Arduino
-
+## NAME: RITHVIK S
+## REG NO: 212223100045
+## EXP 1: LED control using Arduino and Push button
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
 
