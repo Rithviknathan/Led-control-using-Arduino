@@ -86,9 +86,10 @@ void loop() {
   }
 ```
 ## OUTPUT
-# LED OFF
+## LED OFF
 <img width="1937" height="1354" alt="Screenshot 2025-08-21 091651" src="https://github.com/user-attachments/assets/c7a7c3a2-6979-4bca-a004-8054fe26e9c0" />
-# LED ON
+
+## LED ON
 <img width="1947" height="1352" alt="Screenshot 2025-08-21 091632" src="https://github.com/user-attachments/assets/7f55fae2-8542-4842-88cf-1c2be3a597dd" />
 
 
